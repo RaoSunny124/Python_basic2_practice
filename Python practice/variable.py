@@ -25,7 +25,9 @@ print(odd_number)
 # print = 'hassan'
 # print(print) don't use keyword
 # break = 'hassan'
-# print(break)  
+# print(break)
+# class = 'Hassan'
+# print(class)
 
 # meaningful variable example : number = 1 , 2 , 3 , 4 etc(it's for our help)
 

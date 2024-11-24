@@ -1,4 +1,4 @@
-name = 'Hassan'
+name : str = 'Hassan'
 print(name)
 print(type(name))
 
@@ -78,6 +78,13 @@ print(intro2.index('9'))#because indexing start with 0
 
 print(name.join('Rao'))
 print('Ashraf'.join('Hassan'))
+
+special_charactor = '$@#&^!'
+var_type = special_charactor
+print(type(var_type))
+
+number_string = '123445'
+print(type(number_string))
 
 print(name , end = ' goodbye!')
 
